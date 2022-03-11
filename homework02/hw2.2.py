@@ -19,3 +19,4 @@ if len(list_mixed) != list_length:
 print(f"Оригинальный список: {list_original}")
 print(f"Смешаный список: {list_mixed}")
 
+

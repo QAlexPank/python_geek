@@ -51,3 +51,4 @@ analitics = {
 
 print(f"Аналитика по товарам: \n{analitics}")
 
+

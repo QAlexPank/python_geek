@@ -6,3 +6,4 @@ total_list = [7, 14.5, "I'm not ashamed", ["a", "2"], {"name": "Max", "age": 23}
 
 for var in total_list:
     print(f"{var} is {type(var)}")
+
